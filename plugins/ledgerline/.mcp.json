@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ledgerline": {
+      "type": "http",
+      "url": "https://stock-market-mcp.auenkr.com/mcp"
+    }
+  }
+}

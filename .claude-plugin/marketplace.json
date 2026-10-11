@@ -1,0 +1,33 @@
+{
+  "name": "ledgerline-claude",
+  "owner": {
+    "name": "Ledgerline",
+    "email": "support@stock-market.auenkr.com",
+    "url": "https://stock-market.auenkr.com"
+  },
+  "metadata": {
+    "description": "Ledgerline plugins for Claude Code: Indian company fundamentals, financial statements and screening over MCP.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ledgerline",
+      "source": "./plugins/ledgerline",
+      "version": "1.0.0",
+      "description": "Research Indian listed companies with Ledgerline: search companies, read profiles, financial statements, ratios, peer comparisons and shareholding, and screen the company universe with financial criteria.",
+      "author": {
+        "name": "Ledgerline",
+        "url": "https://stock-market.auenkr.com"
+      },
+      "homepage": "https://stock-market.auenkr.com",
+      "repository": "https://github.com/AuenKr/ledgerline-claude-plugins",
+      "license": "MIT",
+      "keywords": [
+        "indian equities",
+        "company fundamentals",
+        "financial statements",
+        "stock screener"
+      ]
+    }
+  ]
+}

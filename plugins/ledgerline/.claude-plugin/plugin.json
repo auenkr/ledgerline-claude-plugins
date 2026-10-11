@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "ledgerline",
+  "displayName": "Ledgerline",
+  "version": "1.0.0",
+  "description": "Research Indian listed companies with Ledgerline: search companies, read profiles, financial statements, ratios, peer comparisons and shareholding, and screen the company universe with financial criteria.",
+  "author": {
+    "name": "Ledgerline",
+    "url": "https://stock-market.auenkr.com"
+  },
+  "homepage": "https://stock-market.auenkr.com",
+  "repository": "https://github.com/AuenKr/ledgerline-claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "indian equities",
+    "company fundamentals",
+    "financial statements",
+    "stock screener"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://stock-market.auenkr.com/documentation",
+  "supportUrl": "https://stock-market.auenkr.com/support",
+  "privacyPolicyUrl": "https://stock-market.auenkr.com/privacy-policy",
+  "termsOfServiceUrl": "https://stock-market.auenkr.com/terms-of-service",
+  "skills": [
+    "./skills/"
+  ]
+}
